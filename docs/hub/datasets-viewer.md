@@ -18,4 +18,4 @@ viewer: false
 ---
 ```
 
-Note that the viewer is always disabled on the private datasets.
+Note that the viewer is always disabled for private datasets.
